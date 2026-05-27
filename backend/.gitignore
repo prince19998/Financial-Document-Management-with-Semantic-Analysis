@@ -1,0 +1,13 @@
+Nimapenv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+financial_docs.db
+storage/uploads/*
+storage/vectors/*
+!storage/uploads/.gitkeep
+!storage/vectors/.gitkeep
+*.egg-info/
+dist/
+build/
